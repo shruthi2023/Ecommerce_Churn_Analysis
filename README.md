@@ -3,3 +3,5 @@ based on Churners.This is the project that helps firms to easily predict the Cus
 Data preprocessing, Data Visualization, Exploratory Data Analysis, Creating Customer Churn Dashboard using PowerBI,
 Model Building and Model Deployment with Flask. 
 
+<img width="613" alt="Chrun_Analysis" src="https://github.com/shruthi2023/Ecommerce_Churn_Analysis/assets/126853880/1e70d613-3d58-42e0-aae1-ce2057187e55">
+
